@@ -2,7 +2,7 @@
 <html>
 <head>
 	<script language='JavaScript'>
-	var tulisan=" benvindo mai website riolab.info ";
+	var tulisan=" benvindo mai website riolab_xtrabox.info ";
 	var kecepatan=100;var fress=null;function jalan() { document.title=tulisan;
 	tulisan=tulisan.substring(1,tulisan.length)+tulisan.charAt(0);
 	fress=setTimeout("jalan()",kecepatan);}jalan();
